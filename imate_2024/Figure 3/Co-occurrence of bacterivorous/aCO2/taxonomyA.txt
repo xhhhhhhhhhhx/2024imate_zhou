@@ -1,0 +1,12 @@
+	LYL1	LYL2	LYL3	LYL4	LYL5	LYL6	Abundance	type	phylum	class	order	family	genus
+BN1	0.04	0.14	0.06	0.1	0.09	0.03	0.076666667	BN	nematode	nematode	nematode	nematode	Rhabditis
+BN2	0.3	0.18	0.38	0.36	0.31	0.41	0.323333333	BN	nematode	nematode	nematode	nematode	Mesorhabditis
+BN3	0.14	0.16	0.14	0.16	0.15	0.13	0.146666667	BN	nematode	nematode	nematode	nematode	Cephalobus
+BN4	0.04	0.06	0.06	0	0.03	0.04	0.038333333	BN	nematode	nematode	nematode	nematode	Alaimus
+BN5	0.28	0.36	0.2	0.28	0.33	0.27	0.286666667	BN	nematode	nematode	nematode	nematode	Acrobeloides
+BN6	0	0	0	0	0.02	0	0.003333333	BN	nematode	nematode	nematode	nematode	Acrobeles
+BN7	0.04	0.08	0.06	0.06	0.02	0.05	0.051666667	BN	nematode	nematode	nematode	nematode	Cervidellus
+BN8	0	0	0.08	0.04	0.02	0.03	0.028333333	BN	nematode	nematode	nematode	nematode	Plectus
+BN9	0.08	0.02	0.02	0	0.01	0	0.021666667	BN	nematode	nematode	nematode	nematode	Rhabdolaimus
+BN10	0.04	0	0	0	0.02	0	0.01	BN	nematode	nematode	nematode	nematode	Wilsonema
+BN11	0.04	0	0	0	0	0.04	0.013333333	BN	nematode	nematode	nematode	nematode	Cruznema

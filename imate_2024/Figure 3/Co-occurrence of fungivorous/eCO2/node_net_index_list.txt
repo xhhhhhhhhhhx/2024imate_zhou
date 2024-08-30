@@ -1,0 +1,7 @@
+node_id	degree	weight_degree	closeness_centrality	betweenness_centrality	eigenvector_centrality
+FN1	0	0	NA	0	1
+FN2	0	0	NA	0	1
+FN3	0	0	NA	0	1
+FN4	0	0	NA	0	1
+FN5	0	0	NA	0	1
+FN6	0	0	NA	0	1

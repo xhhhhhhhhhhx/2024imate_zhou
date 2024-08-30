@@ -1,0 +1,12 @@
+label	phylum	class	order	family	genus	abundance	Type
+BN1	nematode	nematode	nematode	nematode	Rhabditis	0.076666667	BN
+BN2	nematode	nematode	nematode	nematode	Mesorhabditis	0.323333333	BN
+BN3	nematode	nematode	nematode	nematode	Cephalobus	0.146666667	BN
+BN4	nematode	nematode	nematode	nematode	Alaimus	0.038333333	BN
+BN5	nematode	nematode	nematode	nematode	Acrobeloides	0.286666667	BN
+BN6	nematode	nematode	nematode	nematode	Acrobeles	0.003333333	BN
+BN7	nematode	nematode	nematode	nematode	Cervidellus	0.051666667	BN
+BN8	nematode	nematode	nematode	nematode	Plectus	0.028333333	BN
+BN9	nematode	nematode	nematode	nematode	Rhabdolaimus	0.021666667	BN
+BN10	nematode	nematode	nematode	nematode	Wilsonema	0.01	BN
+BN11	nematode	nematode	nematode	nematode	Cruznema	0.013333333	BN

@@ -1,0 +1,2 @@
+nodes_num	edges_num	average_degree	nodes_connectivity	edges_connectivity	average_path_length	graph_diameter	graph_density	clustering_coefficient	betweenness_centralization	degree_centralization	modularity	connectance	assortativity
+6	0	0	0	0	NA	0	0	NA	0	0	NA	0	NA

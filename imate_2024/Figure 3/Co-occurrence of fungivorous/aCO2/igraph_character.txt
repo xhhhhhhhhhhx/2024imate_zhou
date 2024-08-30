@@ -1,0 +1,2 @@
+nodes_num	edges_num	average_degree	nodes_connectivity	edges_connectivity	average_path_length	graph_diameter	graph_density	clustering_coefficient	betweenness_centralization	degree_centralization	modularity	connectance	assortativity
+6	6	2	0	0	1.33082785001819	2.60579709697225	0.4	0.6	0.26	0.2	0.111111111111111	0.4	-0.285714285714284

@@ -1,0 +1,7 @@
+label	phylum	class	order	family	genus	abundance	Type
+FN1	nematode	nematode	nematode	nematode	Paraphelenchus	0.045	FN
+FN2	nematode	nematode	nematode	nematode	Ditylenchus	0.13	FN
+FN3	nematode	nematode	nematode	nematode	Aphelenchus	0.418333333	FN
+FN4	nematode	nematode	nematode	nematode	Paraphelenchus	0.141666667	FN
+FN5	nematode	nematode	nematode	nematode	Aphelenchoides	0.188333333	FN
+FN6	nematode	nematode	nematode	nematode	Tylencholaimus	0.076666667	FN
